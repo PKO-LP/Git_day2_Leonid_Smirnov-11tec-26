@@ -43,3 +43,4 @@ git commit
 
 ---
 
+<img width="962" height="177" alt="Снимок экрана 2026-09-17 154348" src="https://github.com/user-attachments/assets/42a3d9a8-368b-465b-92d6-02a62df7518d" />
