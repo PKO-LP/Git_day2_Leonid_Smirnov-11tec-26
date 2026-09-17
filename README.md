@@ -2,7 +2,7 @@
 
 **Git** — это распределенная система контроля версий, которая сохраняет историю изменений кода, позволяет откатывать проект назад и помогает программистам работать в команде без потери данных.
 
-<img width="120" height="120" alt="unnamed" src="https://github.com/user-attachments/assets/022bdb26-322f-446d-bdcf-848b49075337" />
+<img width="160" height="160" alt="unnamed" src="https://github.com/user-attachments/assets/022bdb26-322f-446d-bdcf-848b49075337" />
 
 ---
 
